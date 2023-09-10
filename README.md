@@ -1,8 +1,20 @@
-# React + Vite
+## SummarAIze
+An Article Summarizer powered by RapidAPI and OpenAI's GPT Model; built with React and styled with Tailwind CSS.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![banner_image](https://i.imgur.com/ZblXr0S.png)
 
-Currently, two official plugins are available:
+## Get The Gist
+[SummarAIze](https://summaraize-jj5v.onrender.com/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Summary example](https://i.imgur.com/QhG9GmN.png)
+
+## Technologies Used
+* OpenAI GPT-4
+* RapidAPI
+* ReactJS
+* Tailwind CSS
+* Vite
+
+## Credits
+
+**Project Model** - ["AI Article Summarizer"](https://www.youtube.com/watch?v=A6g8xc0MoiY&t=24s) by [JS Mastery](https://www.youtube.com/@javascriptmastery)

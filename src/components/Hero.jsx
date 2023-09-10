@@ -10,7 +10,7 @@ const Hero = () => {
                 
                 <button
                     type="button"
-                    onClick={() => window.open('https://github.com/scurrlin')}
+                    onClick={() => window.open('https://github.com/Scurrlin/AI_Article_Summarizer_Clone')}
                     className="black_btn"
                 >
                     GitHub

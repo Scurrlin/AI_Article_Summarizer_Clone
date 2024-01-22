@@ -1,4 +1,4 @@
-## SummarAIze
+# SummarAIze
 An Article Summarizer powered by RapidAPI and OpenAI's GPT Model; built with React and styled with Tailwind CSS.
 
 ![banner_image](https://i.imgur.com/ZblXr0S.png)

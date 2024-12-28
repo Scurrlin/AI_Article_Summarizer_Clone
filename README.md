@@ -1,12 +1,6 @@
 # SummarAIze
-An Article Summarizer powered by RapidAPI and OpenAI's GPT Model; built with React and styled with Tailwind CSS.
 
 ![banner_image](https://i.imgur.com/ZblXr0S.png)
-
-## Get The Gist
-[SummarAIze](https://summaraize-jj5v.onrender.com/)
-
-![Summary example](https://i.imgur.com/QhG9GmN.png)
 
 ## Technologies Used
 * OpenAI GPT-4

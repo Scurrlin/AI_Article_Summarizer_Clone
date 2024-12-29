@@ -11,4 +11,5 @@ An [article summarizer](https://summaraize-jj5v.onrender.com/) powered by RapidA
 * Vite
 
 ## Credits
+
 **Project Model** - ["AI Article Summarizer"](https://www.youtube.com/watch?v=A6g8xc0MoiY&t=24s) by [JS Mastery](https://www.youtube.com/@javascriptmastery)

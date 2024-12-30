@@ -4,7 +4,7 @@ An [article summarizer](https://summaraize-jj5v.onrender.com/) powered by RapidA
 ![banner_image](https://i.imgur.com/ZblXr0S.png)
 
 ## Technologies Used
-* OpenAI
+* OpenAI's GPT-4
 * RapidAPI
 * ReactJS
 * Tailwind CSS

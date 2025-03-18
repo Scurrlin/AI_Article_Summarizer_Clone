@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-
 import { copy, linkIcon, loader, tick } from "../assets";
 import { useLazyGetSummaryQuery } from "../services/article";
 
@@ -19,7 +18,7 @@ const Demo = () => {
     const articlesFromLocalStorage = JSON.parse(
       localStorage.getItem("articles")
     );
-
+    
     if (articlesFromLocalStorage) {
       setAllArticles(articlesFromLocalStorage);
     }

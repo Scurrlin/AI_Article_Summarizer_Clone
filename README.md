@@ -1,5 +1,5 @@
 # SummarAIze
-An [article summarizer](https://summaraize-jj5v.onrender.com/) powered by RapidAPI and OpenAI's GPT Model.
+An article summarizer powered by RapidAPI and OpenAI's GPT Model.
 
 ![banner_image](https://i.imgur.com/ZblXr0S.png)
 
